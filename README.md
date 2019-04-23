@@ -1,2 +1,2 @@
 # wisnets
-Powerful dependency injection web framework in LUA programming language.
+Powerful dependency injection web framework in Lua programming language.
