@@ -1,0 +1,3 @@
+local wisnets = {}
+
+return wisnets
